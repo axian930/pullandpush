@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Use no -ff.
 Change saves.
 I add a line code,can you see?
+the file was cloned and added a line code.
