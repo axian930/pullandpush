@@ -6,3 +6,4 @@ Creat a new branch is quick.
 Creating a new branch is quick and simple.
 Use no -ff.
 Change saves.
+I add a line code,can you see?
